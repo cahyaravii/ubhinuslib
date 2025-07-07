@@ -7,7 +7,7 @@ const books = [
     { 
         title: "Computer Graphics", 
         link: "https://online.fliphtml5.com/hnjik/ukoz/", 
-        thumbnail: "img/computergraphics.jpg"
+        thumbnail: "img/Computergraphics.jpg"
     },
     { 
         title: "Belajar MS WOrd 2012", 
@@ -62,7 +62,7 @@ const books = [
     { 
         title: "Deep Learning for Natural Language Processing", 
         link: "https://online.fliphtml5.com/zauwuy/itnd/", 
-        thumbnail: "img/deepnlp.jpg"
+        thumbnail: "img/Deepnlp.jpg"
     },
     { 
         title: "Practical Machine Learning and Image Processing", 
