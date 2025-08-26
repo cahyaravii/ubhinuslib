@@ -156,7 +156,7 @@ const books = [
     },
     {
         title: "Computer Graphics",
-        link: "https://drive.google.com/file/d/1XyzABCDefGhIJKLmnop/preview",
+        link: "https://drive.google.com/file/d/1pMHf74OUJv_0RAiLtqUlLUNVWejZm0kj/preview",
         thumbnail: "img/Computergraphics.jpg"
     },
     { 
