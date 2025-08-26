@@ -149,16 +149,6 @@
 // ==================== Data Buku ====================
 // Pakai link Google Drive dengan format: /preview
 const books = [
-    {
-        title: "Jaringan Komputer",
-        link: "https://drive.google.com/file/d/1R1HLJrrW5B6YOegFDQTejZ20SFIedPfN/preview",
-        thumbnail: "img/jaringankomputer.jpg"
-    },
-    {
-        title: "Computer Graphics",
-        link: "https://drive.google.com/file/d/1pMHf74OUJv_0RAiLtqUlLUNVWejZm0kj/preview",
-        thumbnail: "img/Computergraphics.jpg"
-    },
     { 
         title: "Dasar Pemrograman Python", 
         link: "https://drive.google.com/file/d/1R1HLJrrW5B6YOegFDQTejZ20SFIedPfN/preview", 
